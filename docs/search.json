@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "Welcome to the lectures site.\nThis space is separate from the main website and is dedicated to course materials, notes, and downloadable files."
+  },
+  {
+    "objectID": "index.html#current-courses",
+    "href": "index.html#current-courses",
+    "title": "Lectures",
+    "section": "Current courses",
+    "text": "Current courses\n\nEDO\nOrdinary Differential Equations course materials, lecture notes, and downloadable notebooks."
+  },
+  {
     "objectID": "edo/index.html",
     "href": "edo/index.html",
     "title": "EDO",
