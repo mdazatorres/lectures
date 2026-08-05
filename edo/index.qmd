@@ -1,0 +1,22 @@
+---
+title: "EDO"
+---
+
+This page contains the materials for the EDO course.
+
+## Course materials
+
+- [Lecture notes PDF](./downloads/lecture-notes.pdf)
+- [Notebook 1](./notebooks/edo-introduction.ipynb)
+
+## Suggested structure
+
+You can organize this course with:
+
+- `downloads/` for PDFs and files students can download
+- `notebooks/` for Jupyter notebooks
+- additional `.qmd` pages if you later want one page per lecture
+
+## Notes
+
+If a file is not ready yet, you can keep the placeholder names and replace them later with the real files.

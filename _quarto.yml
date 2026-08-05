@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Lectures"
+  site-url: "https://mdazatorres.github.io/lectures/"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: edo/index.qmd
+        text: EDO
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: false

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "edo/index.html",
+    "href": "edo/index.html",
+    "title": "EDO",
+    "section": "",
+    "text": "This page contains the materials for the EDO course."
+  },
+  {
+    "objectID": "edo/index.html#course-materials",
+    "href": "edo/index.html#course-materials",
+    "title": "EDO",
+    "section": "Course materials",
+    "text": "Course materials\n\nLecture notes PDF\nNotebook 1"
+  },
+  {
+    "objectID": "edo/index.html#suggested-structure",
+    "href": "edo/index.html#suggested-structure",
+    "title": "EDO",
+    "section": "Suggested structure",
+    "text": "Suggested structure\nYou can organize this course with:\n\ndownloads/ for PDFs and files students can download\nnotebooks/ for Jupyter notebooks\nadditional .qmd pages if you later want one page per lecture"
+  },
+  {
+    "objectID": "edo/index.html#notes",
+    "href": "edo/index.html#notes",
+    "title": "EDO",
+    "section": "Notes",
+    "text": "Notes\nIf a file is not ready yet, you can keep the placeholder names and replace them later with the real files."
+  }
+]

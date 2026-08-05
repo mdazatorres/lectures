@@ -1,0 +1,13 @@
+---
+title: "Lectures"
+---
+
+Welcome to the lectures site.
+
+This space is separate from the main website and is dedicated to course materials, notes, and downloadable files.
+
+## Current courses
+
+### [EDO](./edo/)
+
+Ordinary Differential Equations course materials, lecture notes, and downloadable notebooks.
