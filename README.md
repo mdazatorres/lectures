@@ -37,3 +37,15 @@ This creates the `docs/` folder, which is the folder GitHub Pages should publish
 5. Select branch `main` and folder `/docs`.
 
 The site is configured to publish at `https://mdazatorres.github.io/lectures/`.
+
+## Update workflow
+
+Use these commands to render and publish changes:
+
+```bash
+cd /Users/mdazatorres/Library/CloudStorage/Dropbox/Mywebsite/lectures
+quarto render
+git add -A
+git commit -m "Update EDO materials"
+git push origin main
+```

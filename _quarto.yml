@@ -9,8 +9,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: edo/index.qmd
-        text: EDO
+
 
 format:
   html:

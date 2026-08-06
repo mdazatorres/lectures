@@ -11,34 +11,34 @@
     "href": "index.html#current-courses",
     "title": "Lectures",
     "section": "Current courses",
-    "text": "Current courses\n\nEDO\nOrdinary Differential Equations course materials, lecture notes, and downloadable notebooks."
+    "text": "Current courses\n\nEDO 2027 I\nOrdinary Differential Equations course materials, lecture notes, and downloadable notebooks. UAEM students"
   },
   {
     "objectID": "edo/index.html",
     "href": "edo/index.html",
-    "title": "EDO",
+    "title": "Ordinary Differential Equations",
     "section": "",
-    "text": "This page contains the materials for the EDO course."
+    "text": "Welcome to Ordinary Differential Equations!\nI am delighted to have you in this course. Throughout the semester, we will develop the mathematical theory of ordinary differential equations while emphasizing intuition, analytical techniques, and applications arising in science, engineering, and other quantitative disciplines.\nThis website will serve as the main hub for the course. Here you will find lecture notes, Jupyter notebooks, assignments, announcements, and additional resources. Please check this page regularly, as course materials and updates will be posted throughout the semester.\nI encourage you to ask questions, participate actively in class, and enjoy the process of learning. I look forward to a productive and enjoyable semester together. Welcome!"
+  },
+  {
+    "objectID": "edo/index.html#course-information",
+    "href": "edo/index.html#course-information",
+    "title": "Ordinary Differential Equations",
+    "section": "Course Information",
+    "text": "Course Information\n\n\n\nSemester\nThird Semester\n\n\nAcademic Period\nAugust 17 – December 5, 2026\n\n\nClass Schedule\nTo be announced\n\n\nClassroom\nTo be announced\n\n\nEmail\nluisa.daza@im.unam.mx\n\n\nOffice Hours\nFridays, 9:00 AM – 1:00 PM (or by appointment via email)\n\n\nOffice\nInstitute of Mathematics, UNAM Cuernavaca, Office N2 8"
   },
   {
     "objectID": "edo/index.html#course-materials",
     "href": "edo/index.html#course-materials",
-    "title": "EDO",
-    "section": "Course materials",
-    "text": "Course materials\n\nLecture notes PDF\nNotebook 1"
+    "title": "Ordinary Differential Equations",
+    "section": "Course Materials",
+    "text": "Course Materials\n\n📄 Syllabus\n📒 Lecture Notes\n💻 Lecture 1 Notebook"
   },
   {
-    "objectID": "edo/index.html#suggested-structure",
-    "href": "edo/index.html#suggested-structure",
-    "title": "EDO",
-    "section": "Suggested structure",
-    "text": "Suggested structure\nYou can organize this course with:\n\ndownloads/ for PDFs and files students can download\nnotebooks/ for Jupyter notebooks\nadditional .qmd pages if you later want one page per lecture"
-  },
-  {
-    "objectID": "edo/index.html#notes",
-    "href": "edo/index.html#notes",
-    "title": "EDO",
-    "section": "Notes",
-    "text": "Notes\nIf a file is not ready yet, you can keep the placeholder names and replace them later with the real files."
+    "objectID": "edo/index.html#announcements",
+    "href": "edo/index.html#announcements",
+    "title": "Ordinary Differential Equations",
+    "section": "Announcements",
+    "text": "Announcements\nCourse announcements, reminders, and updates will be posted here throughout the semester."
   }
 ]

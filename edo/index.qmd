@@ -1,22 +1,44 @@
 ---
-title: "EDO"
+title: "Ordinary Differential Equations"
 ---
 
-This page contains the materials for the EDO course.
+Welcome to **Ordinary Differential Equations**!
 
-## Course materials
+I am delighted to have you in this course. Throughout the semester, we will develop the mathematical theory of ordinary differential equations while emphasizing intuition, analytical techniques, and applications arising in science, engineering, and other quantitative disciplines.
 
-- [Lecture notes PDF](./downloads/lecture-notes.pdf)
-- [Notebook 1](./notebooks/edo-introduction.ipynb)
+This website will serve as the main hub for the course. Here you will find lecture notes, Jupyter notebooks, assignments, announcements, and additional resources. Please check this page regularly, as course materials and updates will be posted throughout the semester.
 
-## Suggested structure
+I encourage you to ask questions, participate actively in class, and enjoy the process of learning. I look forward to a productive and enjoyable semester together. Welcome!
 
-You can organize this course with:
+---
 
-- `downloads/` for PDFs and files students can download
-- `notebooks/` for Jupyter notebooks
-- additional `.qmd` pages if you later want one page per lecture
+## Course Information
 
-## Notes
+| | |
+|---|---|
+| **Semester** | Third Semester |
+| **Academic Period** | August 17 – December 5, 2026 |
+| **Class Schedule** | *To be announced* |
+| **Classroom** | *To be announced* |
+| **Email** | <luisa.daza@im.unam.mx> |
+| **Office Hours** | Fridays, 9:00 AM – 1:00 PM (or by appointment via email) |
+| **Office** | Institute of Mathematics, UNAM Cuernavaca, Office N2 8 |
 
-If a file is not ready yet, you can keep the placeholder names and replace them later with the real files.
+---
+
+## Course Materials
+
+- 📄 [Syllabus](./downloads/EDO2027I_Syllabus.pdf)
+- 📒 [Lecture Notes](./downloads/lecture-notes.pdf)
+- 💻 [Lecture 1 Notebook](./notebooks/edo-introduction.ipynb)
+
+---
+
+## Announcements
+
+Course announcements, reminders, and updates will be posted here throughout the semester.
+
+
+
+
+
