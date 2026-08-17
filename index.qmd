@@ -8,6 +8,6 @@ This space is separate from the main website and is dedicated to course material
 
 ## Current courses
 
-### [Ordinary Differential Equations (EDO) 2027-I](./edo/)
+### [Ordinary Differential Equations (EDO) 2026-II](./edo/)
 
 Course materials for UAEM students, including lecture notes, computational notebooks, assignments, and additional resources.

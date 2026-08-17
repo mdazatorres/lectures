@@ -18,8 +18,8 @@ I encourage you to ask questions, participate actively in class, and enjoy the p
 |---|---|
 | **Semester** | Third Semester |
 | **Academic Period** | August 17 – December 5, 2026 |
-| **Class Schedule** | *To be announced* |
-| **Classroom** | *To be announced* |
+| **Class Schedule** | Mon - Wed, 11:30 - 2:00 pm |
+| **Classroom** | 218 |
 | **Email** | <luisa.daza@im.unam.mx> |
 | **Office Hours** | Fridays, 9:00 AM – 1:00 PM (or by appointment via email) |
 | **Office** | Institute of Mathematics, UNAM Cuernavaca, Office N2 8 |
@@ -29,8 +29,8 @@ I encourage you to ask questions, participate actively in class, and enjoy the p
 ## Course Materials
 
 - 📄 [Syllabus](./downloads/EDO2027I_Syllabus.pdf)
-- 📒 [Lecture Notes](./downloads/lecture-notes.pdf)
-- 💻 [Lecture 1 Notebook](./notebooks/edo-introduction.ipynb)
+- 📒 [Lecture 1 - August 17, 2026](./downloads/Lecture1.pdf)
+- 💻 [Homework 1](./notebooks/Homework1.pdf)
 
 ---
 
@@ -38,6 +38,11 @@ I encourage you to ask questions, participate actively in class, and enjoy the p
 
 Course announcements, reminders, and updates will be posted here throughout the semester.
 
+### August 19: No class
+
+There will be no class on **Wednesday, August 19**, because I will be attending a conference.
+
+Please download **Homework 1** and work on it before our next class. We will review it in class on **Monday, August 24**.
 
 
 
