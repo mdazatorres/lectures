@@ -30,6 +30,7 @@ I encourage you to ask questions, participate actively in class, and enjoy the p
 
 - 📄 [Syllabus](./downloads/EDO2027I_Syllabus.pdf)
 - 📒 [Lecture 1 - August 17, 2026](./downloads/Lecture1.pdf)
+- 📒 [Lecture 2 - August 24, 2026](./downloads/Lecture2.pdf)
 - 💻 [Homework 1](./downloads/Homework1.pdf)
 
 ---
