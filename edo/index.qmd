@@ -32,6 +32,7 @@ I encourage you to ask questions, participate actively in class, and enjoy the p
 - 📒 [Lecture 1 - August 17, 2026](./downloads/Lecture1.pdf)
 - 📒 [Lecture 2 - August 24, 2026](./downloads/Lecture2.pdf)
 - 💻 [Homework 1](./downloads/Homework1.pdf)
+- 💻 [Homework 2](./downloads/Homework2.pdf)
 
 ---
 
