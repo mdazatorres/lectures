@@ -38,13 +38,11 @@ I encourage you to ask questions, participate actively in class, and enjoy the p
 
 ## Announcements
 
-Course announcements, reminders, and updates will be posted here throughout the semester.
+<div style="color: #b30000; background-color: #ffe6e6; border-left: 5px solid #b30000; padding: 12px; font-weight: bold;">
+August 31- 2026: Quiz de problemas seleccionados de Tarea 2
+</div>
 
-### August 19: No class
 
-There will be no class on **Wednesday, August 19**, because I will be attending a conference.
-
-Please download **Homework 1** and work on it before our next class. We will review it in class on **Monday, August 24**.
 
 
 
