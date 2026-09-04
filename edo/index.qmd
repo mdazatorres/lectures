@@ -2,17 +2,17 @@
 title: "Ordinary Differential Equations"
 ---
 
-Welcome to **Ordinary Differential Equations**!
+<!--Welcome to **Ordinary Differential Equations**!
 
-I am delighted to have you in this course. Throughout the semester, we will develop the mathematical theory of ordinary differential equations while emphasizing intuition, analytical techniques, and applications arising in science, engineering, and other quantitative disciplines.
+I am delighted to have you in this course. Throughout the semester, we will develop the mathematical theory of ordinary differential equations while emphasizing intuition, analytical techniques, and applications arising in science, engineering, and other quantitative disciplines.-->
 
-This website will serve as the main hub for the course. Here you will find lecture notes, Jupyter notebooks, assignments, announcements, and additional resources. Please check this page regularly, as course materials and updates will be posted throughout the semester.
+<!--This website will serve as the main hub for the course. Here you will find lecture notes, Jupyter notebooks, assignments, announcements, and additional resources. Please check this page regularly, as course materials and updates will be posted throughout the semester.
 
-I encourage you to ask questions, participate actively in class, and enjoy the process of learning. I look forward to a productive and enjoyable semester together. Welcome!
+I encourage you to ask questions, participate actively in class, and enjoy the process of learning. I look forward to a productive and enjoyable semester together. Welcome!-->
 
----
 
-## Course Information
+
+
 
 | | |
 |---|---|
@@ -38,9 +38,21 @@ I encourage you to ask questions, participate actively in class, and enjoy the p
 
 ## Announcements
 
-<div style="color: #b30000; background-color: #ffe6e6; border-left: 5px solid #b30000; padding: 12px; font-weight: bold;">
-August 31- 2026: Quiz de problemas seleccionados de Tarea 2
-</div>
+**4 de septiembre de 2026**
+
+Es obligatorio registrarse en el siguiente formulario **por cada curso que tomen en el Instituto de Matemáticas**:
+
+[Formulario de registro](https://fw.matcuer.unam.mx/UCIMAdmin/cae/ClasesLicenciatura)
+
+A partir de estos registros se elaborará la lista de estudiantes de la UAEM autorizados para ingresar a la Unidad. Esta lista será utilizada por el personal de la entrada para permitirles el acceso.
+
+Tomen en cuenta las siguientes indicaciones:
+
+* Podrán ingresar a la Unidad desde **30 minutos antes del inicio de su clase**.
+* Deberán retirarse **a más tardar 30 minutos después de que termine su clase**.
+
+**Importante:** si no completan el formulario, no se les permitirá el acceso a la Unidad.
+
 
 
 
