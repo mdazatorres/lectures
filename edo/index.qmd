@@ -29,14 +29,15 @@ I encourage you to ask questions, participate actively in class, and enjoy the p
 ## Course Materials
 
 - 📄 [Syllabus](./downloads/EDO2027I_Syllabus.pdf)
-- 📒 [Lecture 1 - August 17, 2026](./downloads/Lecture1.pdf)
-- 📒 [Lecture 2 - August 24, 2026](./downloads/Lecture2.pdf)
+- 📒 [Lecture  - September 10, 2026](./downloads/Notas_de_Clase.pdf)
 - 💻 [Homework 1](./downloads/Homework1.pdf)
 - 💻 [Homework 2](./downloads/Homework2.pdf)
+- 💻 [Homework 3](./downloads/Homework3.pdf)
 
 ---
 
 ## Announcements
+
 
 **4 de septiembre de 2026**
 

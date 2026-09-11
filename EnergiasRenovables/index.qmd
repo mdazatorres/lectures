@@ -1,0 +1,39 @@
+---
+title: "Material del Minicurso: Matemáticas para Energías Renovables y Resiliencia Climática"
+fechas: "7, 9, 11, 14 y 17 de septiembre de 2026"
+---
+
+## Material del minicurso
+
+En esta página se encuentran las **diapositivas, datos y ejemplos computacionales** utilizados durante el minicurso **Matemáticas para Energías Renovables y Resiliencia Climática**.
+
+### Día 1 — 7 de septiembre de 2026
+- 📄 Material próximamente.
+
+<!--- 📄 [Diapositivas](./downloads/slides_day1.pdf)-->
+
+### Día 2 — 9 de septiembre de 2026 
+
+- 📄 [Diapositivas](./downloads/slides_day2.pdf)
+- 📊 <a href="./downloads/solar_8760h.csv" download>Descargar datos: generación solar</a>
+- 💻 <a href="./downloads/00_exploracion_solar.ipynb" download>Descargar Ejemplo 1: Exploración de datos solares</a>
+- 💻 <a href="./downloads/01_regresion_bayesiana_estacional.ipynb" download>Descargar Ejemplo 2: Regresión bayesiana estacional</a>
+- 💻 <a href="./downloads/02_estacional_ar1_bayesiano.ipynb" download>Descargar Ejemplo 3: Modelo estacional AR(1) bayesiano</a>
+
+### Día 3 — 11 de septiembre de 2026
+
+- 📄 Material próximamente.
+
+### Día 4 — 14 de septiembre de 2026
+
+- 📄 Material próximamente.
+
+### Día 5 — 17 de septiembre de 2026
+
+- 📄 Material próximamente.
+
+
+
+
+
+

@@ -1,6 +1,12 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "edo/*.qmd"
+    - "EnergiasRenovables/*.qmd"
+  resources:
+    - "EnergiasRenovables/downloads/*.ipynb"
 
 website:
   title: "Lectures"

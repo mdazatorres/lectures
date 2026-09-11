@@ -11,7 +11,21 @@
     "href": "index.html#current-courses",
     "title": "Lectures",
     "section": "Current courses",
-    "text": "Current courses\n\nOrdinary Differential Equations (EDO) 2026-II\nCourse materials for UAEM students, including lecture notes, computational notebooks, assignments, and additional resources."
+    "text": "Current courses\n\nOrdinary Differential Equations (EDO) 2026-II\nCourse materials for UAEM students, including lecture notes, computational notebooks, assignments, and additional resources.\n\n\nMinicurso - Matemáticas para Energías Renovables y Resiliencia Climática 2026\nEn esta página se encuentran las diapositivas, datos y ejemplos computacionales utilizados durante el minicurso Matemáticas para Energías Renovables y Resiliencia Climática."
+  },
+  {
+    "objectID": "EnergiasRenovables/index.html",
+    "href": "EnergiasRenovables/index.html",
+    "title": "Material del Minicurso: Matemáticas para Energías Renovables y Resiliencia Climática",
+    "section": "",
+    "text": "En esta página se encuentran las diapositivas, datos y ejemplos computacionales utilizados durante el minicurso Matemáticas para Energías Renovables y Resiliencia Climática.\n\n\n\n📄 Material próximamente.\n\n\n\n\n\n\n📄 Diapositivas\n📊 Descargar datos: generación solar\n💻 Descargar Ejemplo 1: Exploración de datos solares\n💻 Descargar Ejemplo 2: Regresión bayesiana estacional\n💻 Descargar Ejemplo 3: Modelo estacional AR(1) bayesiano\n\n\n\n\n\n📄 Material próximamente.\n\n\n\n\n\n📄 Material próximamente.\n\n\n\n\n\n📄 Material próximamente."
+  },
+  {
+    "objectID": "EnergiasRenovables/index.html#material-del-minicurso",
+    "href": "EnergiasRenovables/index.html#material-del-minicurso",
+    "title": "Material del Minicurso: Matemáticas para Energías Renovables y Resiliencia Climática",
+    "section": "",
+    "text": "En esta página se encuentran las diapositivas, datos y ejemplos computacionales utilizados durante el minicurso Matemáticas para Energías Renovables y Resiliencia Climática.\n\n\n\n📄 Material próximamente.\n\n\n\n\n\n\n📄 Diapositivas\n📊 Descargar datos: generación solar\n💻 Descargar Ejemplo 1: Exploración de datos solares\n💻 Descargar Ejemplo 2: Regresión bayesiana estacional\n💻 Descargar Ejemplo 3: Modelo estacional AR(1) bayesiano\n\n\n\n\n\n📄 Material próximamente.\n\n\n\n\n\n📄 Material próximamente.\n\n\n\n\n\n📄 Material próximamente."
   },
   {
     "objectID": "edo/index.html",
@@ -25,7 +39,7 @@
     "href": "edo/index.html#course-materials",
     "title": "Ordinary Differential Equations",
     "section": "Course Materials",
-    "text": "Course Materials\n\n📄 Syllabus\n📒 Lecture 1 - August 17, 2026\n📒 Lecture 2 - August 24, 2026\n💻 Homework 1\n💻 Homework 2"
+    "text": "Course Materials\n\n📄 Syllabus\n📒 Lecture - September 10, 2026\n💻 Homework 1\n💻 Homework 2\n💻 Homework 3"
   },
   {
     "objectID": "edo/index.html#announcements",

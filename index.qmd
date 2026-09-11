@@ -11,3 +11,7 @@ This space is separate from the main website and is dedicated to course material
 ### [Ordinary Differential Equations (EDO) 2026-II](./edo/)
 
 Course materials for UAEM students, including lecture notes, computational notebooks, assignments, and additional resources.
+
+### [Minicurso - Matemáticas para Energías Renovables y Resiliencia Climática 2026](./EnergiasRenovables/)
+
+En esta página se encuentran las **diapositivas, datos y ejemplos computacionales** utilizados durante el minicurso **Matemáticas para Energías Renovables y Resiliencia Climática**.
