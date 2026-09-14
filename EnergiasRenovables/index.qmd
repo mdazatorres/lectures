@@ -8,9 +8,10 @@ fechas: "7, 9, 11, 14 y 17 de septiembre de 2026"
 En esta página se encuentran las **diapositivas, datos y ejemplos computacionales** utilizados durante el minicurso **Matemáticas para Energías Renovables y Resiliencia Climática**.
 
 ### Día 1 — 7 de septiembre de 2026
-- 📄 Material próximamente.
 
-<!--- 📄 [Diapositivas](./downloads/slides_day1.pdf)-->
+- 📄 [Diapositivas](./downloads/Dia_1__Matematicas_para_transicion_energetica.pdf)
+- 📄 [Ejercicio](./downloads/Dia_1__ejercicio_dia1_overleaf.pdf)
+ 
 
 ### Día 2 — 9 de septiembre de 2026 
 
@@ -22,8 +23,11 @@ En esta página se encuentran las **diapositivas, datos y ejemplos computacional
 
 ### Día 3 — 11 de septiembre de 2026
 
-- 📄 Material próximamente.
 
+ - 📄 [Diapositivas parte 1](./downloads/Dia_2__Datos__de_series_temporales.pdf)
+ - 📄 [Diapositivas parte 2](./downloads/Dia_3__Hidroelectrica__de_pasada_y_con_embalse.pdf)
+ - 💻 [Guía instalción Julia](./downloads/Guía_de_Instalación_the_VS_Code___Python___Julia.pdf)
+ 
 ### Día 4 — 14 de septiembre de 2026
 
 - 📄 Material próximamente.
