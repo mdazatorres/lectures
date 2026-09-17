@@ -34,7 +34,33 @@ En esta página se encuentran las **diapositivas, datos y ejemplos computacional
 
 ### Día 5 — 17 de septiembre de 2026
 
-- 📄 Material próximamente.
+#### Taller en clase
+
+Durante el taller se trabajará en tres grupos. Cada grupo desarrollará una actividad diferente y presentará brevemente sus resultados al finalizar la sesión.
+
+##### Grupo A — Diseño de una minirred solar
+
+Diseñar una minirred basada en energía solar y analizar su desempeño.
+
+- Utilizar el archivo de datos incluido en el material descargable.
+- Configurar y evaluar la minirred mediante la aplicación web [Autarky](http://autarky.open4cec.eu/project-setup).
+- Analizar los resultados obtenidos para la generación, el consumo y la autonomía energética.
+
+- 📦 <a href="./downloads/Ejercicio_GrupoA.zip" download>Descargar materiales del Grupo A</a>
+
+##### Grupo B — Modelado de redes eléctricas con PyPSA
+
+Construir y analizar modelos sencillos de sistemas eléctricos utilizando PyPSA.
+
+- 📄 [Parte 1: Despacho económico](./downloads/hoja_1_despacho.pdf)
+- 📄 [Parte 2: Red eléctrica y congestión](./downloads/hoja_2_red_congestion.pdf)
+
+##### Grupo C — Pronóstico de generación solar
+
+Construir modelos de series temporales para pronosticar la generación solar. Se utilizarán los datos o escenarios obtenidos por el Grupo A.
+
+- 💻 <a href="./downloads/03_sarima_solar_no_bayesian.ipynb" download>Descargar modelo SARIMA clásico</a>
+<!-- - 💻 <a href="./downloads/04_sarima_bayesiano_stan_estudiantes.ipynb" download>Descargar modelo de pronóstico bayesiano</a> -->
 
 
 
