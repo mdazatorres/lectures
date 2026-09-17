@@ -60,7 +60,7 @@ Construir y analizar modelos sencillos de sistemas eléctricos utilizando PyPSA.
 Construir modelos de series temporales para pronosticar la generación solar. Se utilizarán los datos o escenarios obtenidos por el Grupo A.
 
 - 💻 <a href="./downloads/03_sarima_solar_no_bayesian.ipynb" download>Descargar modelo SARIMA clásico</a>
-<!-- - 💻 <a href="./downloads/04_sarima_bayesiano_stan_estudiantes.ipynb" download>Descargar modelo de pronóstico bayesiano</a> -->
+- 💻 <a href="./downloads/04_sarima_bayesiano_stan_estudiantes.ipynb" download>Descargar modelo de pronóstico bayesiano</a>
 
 
 
