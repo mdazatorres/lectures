@@ -34,27 +34,18 @@ I encourage you to ask questions, participate actively in class, and enjoy the p
 - 💻 [Homework 2](./downloads/Homework2.pdf)
 - 💻 [Homework 3](./downloads/Homework3.pdf)
 - 💻 [Homework 4](./downloads/Homework4.pdf)
+- 💻 [Homework 5](./downloads/Homework5.pdf)
+- 💻 [Notebook python 1](./downloads/Campos_direccionales_isoclinas_Euler.ipynb)
 
 ---
 
 ## Announcements
 
 
-**4 de septiembre de 2026**
+**24 de septiembre de 2026**
 
-Es obligatorio registrarse en el siguiente formulario **por cada curso que tomen en el Instituto de Matemáticas**:
-
-[Formulario de registro](https://fw.matcuer.unam.mx/UCIMAdmin/cae/ClasesLicenciatura)
-
-A partir de estos registros se elaborará la lista de estudiantes de la UAEM autorizados para ingresar a la Unidad. Esta lista será utilizada por el personal de la entrada para permitirles el acceso.
-
-Tomen en cuenta las siguientes indicaciones:
-
-* Podrán ingresar a la Unidad desde **30 minutos antes del inicio de su clase**.
-* Deberán retirarse **a más tardar 30 minutos después de que termine su clase**.
-
-**Importante:** si no completan el formulario, no se les permitirá el acceso a la Unidad.
-
+- Examen Parcial: Septiembre 30 de 2026
+-  La Tarea 5 se revisará en Octubre 5 de 2026
 
 
 
