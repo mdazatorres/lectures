@@ -1,9 +1,0 @@
-.quarto/
-.ipynb_checkpoints/
-*.log
-.DS_Store
-
-/.quarto/
-
-**/*.quarto_ipynb
-.Rproj.user
