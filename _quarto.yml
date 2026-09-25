@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "edo/*.qmd"
+    - "EnergiasRenovables/*.qmd"
+  resources:
+    - "EnergiasRenovables/downloads/*.ipynb"
+
+website:
+  title: "Lectures"
+  site-url: "https://mdazatorres.github.io/lectures/"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: false

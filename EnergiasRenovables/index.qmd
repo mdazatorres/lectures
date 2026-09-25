@@ -1,0 +1,69 @@
+---
+title: "Material del Minicurso: Matemáticas para Energías Renovables y Resiliencia Climática"
+fechas: "7, 9, 11, 14 y 17 de septiembre de 2026"
+---
+
+## Material del minicurso
+
+En esta página se encuentran las **diapositivas, datos y ejemplos computacionales** utilizados durante el minicurso **Matemáticas para Energías Renovables y Resiliencia Climática**.
+
+### Día 1 — 7 de septiembre de 2026
+
+- 📄 [Diapositivas](./downloads/Dia_1__Matematicas_para_transicion_energetica.pdf)
+- 📄 [Ejercicio](./downloads/Dia_1__ejercicio_dia1_overleaf.pdf)
+ 
+
+### Día 2 — 9 de septiembre de 2026 
+
+- 📄 [Diapositivas](./downloads/slides_day2.pdf)
+- 📊 <a href="./downloads/solar_8760h.csv" download>Descargar datos: generación solar</a>
+- 💻 <a href="./downloads/00_exploracion_solar.ipynb" download>Descargar Ejemplo 1: Exploración de datos solares</a>
+- 💻 <a href="./downloads/01_regresion_bayesiana_estacional.ipynb" download>Descargar Ejemplo 2: Regresión bayesiana estacional</a>
+- 💻 <a href="./downloads/02_estacional_ar1_bayesiano.ipynb" download>Descargar Ejemplo 3: Modelo estacional AR(1) bayesiano</a>
+
+### Día 3 — 11 de septiembre de 2026
+
+
+ - 📄 [Diapositivas parte 1](./downloads/Dia_2__Datos__de_series_temporales.pdf)
+ - 📄 [Diapositivas parte 2](./downloads/Dia_3__Hidroelectrica__de_pasada_y_con_embalse.pdf)
+ - 💻 [Guía instalción Julia](./downloads/Guía_de_Instalación_the_VS_Code___Python___Julia.pdf)
+ 
+### Día 4 — 14 de septiembre de 2026
+
+- 📄 Material próximamente.
+
+### Día 5 — 17 de septiembre de 2026
+
+#### Taller en clase
+
+Durante el taller se trabajará en tres grupos. Cada grupo desarrollará una actividad diferente y presentará brevemente sus resultados al finalizar la sesión.
+
+##### Grupo A — Diseño de una minirred solar
+
+Diseñar una minirred basada en energía solar y analizar su desempeño.
+
+- Utilizar el archivo de datos incluido en el material descargable.
+- Configurar y evaluar la minirred mediante la aplicación web [Autarky](http://autarky.open4cec.eu/project-setup).
+- Analizar los resultados obtenidos para la generación, el consumo y la autonomía energética.
+
+- 📦 <a href="./downloads/Ejercicio_GrupoA.zip" download>Descargar materiales del Grupo A</a>
+
+##### Grupo B — Modelado de redes eléctricas con PyPSA
+
+Construir y analizar modelos sencillos de sistemas eléctricos utilizando PyPSA.
+
+- 📄 [Parte 1: Despacho económico](./downloads/hoja_1_despacho.pdf)
+- 📄 [Parte 2: Red eléctrica y congestión](./downloads/hoja_2_red_congestion.pdf)
+
+##### Grupo C — Pronóstico de generación solar
+
+Construir modelos de series temporales para pronosticar la generación solar. Se utilizarán los datos o escenarios obtenidos por el Grupo A.
+
+- 💻 <a href="./downloads/03_sarima_solar_no_bayesian.ipynb" download>Descargar modelo SARIMA clásico</a>
+- 💻 <a href="./downloads/04_sarima_bayesiano_stan_estudiantes.ipynb" download>Descargar modelo de pronóstico bayesiano</a>
+
+
+
+
+
+
