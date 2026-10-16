@@ -1,5 +1,5 @@
 ---
-title: "Ordinary Differential Equations"
+title: "Ecuaciones Diferenciales Ordinarias"
 ---
 
 <!--Welcome to **Ordinary Differential Equations**!
@@ -16,26 +16,27 @@ I encourage you to ask questions, participate actively in class, and enjoy the p
 
 | | |
 |---|---|
-| **Semester** | Third Semester |
-| **Academic Period** | August 17 – December 5, 2026 |
-| **Class Schedule** | Mon - Wed, 11:30 - 2:00 pm |
-| **Classroom** | 218 |
-| **Email** | <luisa.daza@im.unam.mx> |
-| **Office Hours** | Fridays, 9:00 AM – 1:00 PM (or by appointment via email) |
-| **Office** | Institute of Mathematics, UNAM Cuernavaca, Office N2 8 |
+| **Semestre** | Tercer semestre |
+| **Periodo académico** | 17 de agosto – 5 de diciembre de 2026 |
+| **Horario de clase** | Lunes y miércoles, 11:30 – 14:00 |
+| **Salón** | 218 |
+| **Correo electrónico** | <luisa.daza@im.unam.mx> |
+| **Horario de atención** | Viernes, 9:00 – 13:00 (o con cita previa por correo electrónico) |
+| **Oficina** | Instituto de Matemáticas, UNAM, Unidad Cuernavaca, oficina N2 8 |
 
 ---
 
 ## Course Materials
 
 - 📄 [Syllabus](./downloads/EDO2027I_Syllabus.pdf)
-- 📒 [Lecture  - September 14, 2026](./downloads/Notas_de_Clase.pdf)
+- 📒 [Lecture  - October 14, 2026](./downloads/Notas_de_Clase.pdf)
 - 💻 [Homework 1](./downloads/Homework1.pdf)
 - 💻 [Homework 2](./downloads/Homework2.pdf)
 - 💻 [Homework 3](./downloads/Homework3.pdf)
 - 💻 [Homework 4](./downloads/Homework4.pdf)
 - 💻 [Homework 5](./downloads/Homework5.pdf)
 - 💻 [Homework 6](./downloads/Homework6.pdf)
+- 💻 [Homework 7](./downloads/Homework7.pdf)
 - 💻 <a href="./downloads/Campos_direccionales_isoclinas_Euler.ipynb" download>Descargar notebook python</a>
 
 ---
@@ -43,10 +44,11 @@ I encourage you to ask questions, participate actively in class, and enjoy the p
 ## Announcements
 
 
-**24 de septiembre de 2026**
+**15 de octubre de 2026**
 
-- Examen Parcial: Septiembre 30 de 2026
--  La Tarea 5 se revisará en Octubre 5 de 2026
+- Segundo Examen Parcial: Octubre 30 de 2026, 12:00 - 15:00 horas
+- La siguiente semana no tendremos clase 
+
 
 
 
