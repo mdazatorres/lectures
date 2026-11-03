@@ -1,0 +1,39 @@
+---
+title: "Modelos matemáticos de enfermedades infecciosas con Python"
+fechas: "3 - 6 noviembre de 2026"
+---
+
+<img src="downloads/logo_sir_inferencia.svg" style="width: 80%; display: block; margin: auto;">
+
+## Material del minicurso
+
+En esta página se encuentran las **diapositivas, datos y ejemplos computacionales** utilizados durante el minicurso **Modelos matemáticos de enfermedades infecciosas con Python**.
+
+### Día 1 — 3 de Noviembre de 2026
+
+- 📄 [Diapositivas](./downloads/Dia_1__Matematicas_para_transicion_energetica.pdf)
+- 💻 <a href="./downloads/00_exploracion_solar.ipynb" download>Descargar Laboratorio 1: Del mecanismo al modelo SIR</a>
+- 💻 <a href="./downloads/00_exploracion_solar.ipynb" download>Descargar Tarea 1</a>
+ 
+ 
+
+### Día 2 — 4 de Noviembre de 2026 
+
+- 💻 <a href="./downloads/00_exploracion_solar.ipynb" download>Descargar Clase 2: Ajuste determinista, predicción e incertidumbre</a>
+- 💻 <a href="./downloads/00_exploracion_solar.ipynb" download>Descargar Tarea 2</a>
+- 📊 <a href="./downloads/solar_8760h.csv" download>Descargar datos para Tarea 2: generación solar</a>
+
+
+### Día 3 — 5 de Noviembre de 2026 
+- 📄 Material próximamente.
+
+ 
+### Día 4 — 6 de Noviembre de 2026 
+
+- 📄 Material próximamente.
+
+
+
+
+
+

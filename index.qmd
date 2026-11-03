@@ -16,3 +16,11 @@ Materiales del curso para estudiantes de la UAEM, incluyendo notas de clase, not
 ### [Minicurso - Matemáticas para Energías Renovables y Resiliencia Climática 2026](./EnergiasRenovables/)
 
 En esta página se encuentran las **diapositivas, datos y ejemplos computacionales** utilizados durante el minicurso **Matemáticas para Energías Renovables y Resiliencia Climática**.
+
+
+### [Minicurso: Modelos matemáticos de enfermedades infecciosas con Python](./Modelos_Epid_python/)
+
+Materiales del minicurso **Modelos matemáticos de enfermedades infecciosas con Python**, impartido en la **Escuela de Invierno de Matemáticas del Instituto de Matemáticas, UNAM, Unidad Cuernavaca**.
+
+Aquí se encuentran disponibles las **diapositivas, conjuntos de datos y ejemplos computacionales en Python** utilizados durante el curso.
+

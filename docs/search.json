@@ -11,7 +11,14 @@
     "href": "index.html#current-courses",
     "title": "Lectures",
     "section": "Current courses",
-    "text": "Current courses\n\nEcuaciones Diferenciales Ordinarias (EDO) 2026-II\nMateriales del curso para estudiantes de la UAEM, incluyendo notas de clase, notebooks computacionales, tareas y recursos adicionales.\n\n\nMinicurso - Matemáticas para Energías Renovables y Resiliencia Climática 2026\nEn esta página se encuentran las diapositivas, datos y ejemplos computacionales utilizados durante el minicurso Matemáticas para Energías Renovables y Resiliencia Climática."
+    "text": "Current courses\n\nEcuaciones Diferenciales Ordinarias (EDO) 2026-II\nMateriales del curso para estudiantes de la UAEM, incluyendo notas de clase, notebooks computacionales, tareas y recursos adicionales.\n\n\nMinicurso - Matemáticas para Energías Renovables y Resiliencia Climática 2026\nEn esta página se encuentran las diapositivas, datos y ejemplos computacionales utilizados durante el minicurso Matemáticas para Energías Renovables y Resiliencia Climática.\n\n\nMinicurso: Modelos matemáticos de enfermedades infecciosas con Python\nMateriales del minicurso Modelos matemáticos de enfermedades infecciosas con Python, impartido en la Escuela de Invierno de Matemáticas del Instituto de Matemáticas, UNAM, Unidad Cuernavaca.\nAquí se encuentran disponibles las diapositivas, conjuntos de datos y ejemplos computacionales en Python utilizados durante el curso."
+  },
+  {
+    "objectID": "Modelos_Epid_python/index.html#material-del-minicurso",
+    "href": "Modelos_Epid_python/index.html#material-del-minicurso",
+    "title": "Modelos matemáticos de enfermedades infecciosas con Python",
+    "section": "Material del minicurso",
+    "text": "Material del minicurso\nEn esta página se encuentran las diapositivas, datos y ejemplos computacionales utilizados durante el minicurso Modelos matemáticos de enfermedades infecciosas con Python.\n\nDía 1 — 3 de Noviembre de 2026\n\n📄 Diapositivas\n💻 Descargar Laboratorio 1: Del mecanismo al modelo SIR\n💻 Descargar Tarea 1\n\n\n\nDía 2 — 4 de Noviembre de 2026\n\n💻 Descargar Clase 2: Ajuste determinista, predicción e incertidumbre\n💻 Descargar Tarea 2\n📊 Descargar datos para Tarea 2: generación solar\n\n\n\nDía 3 — 5 de Noviembre de 2026\n\n📄 Material próximamente.\n\n\n\nDía 4 — 6 de Noviembre de 2026\n\n📄 Material próximamente."
   },
   {
     "objectID": "EnergiasRenovables/index.html",

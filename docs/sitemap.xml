@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mdazatorres.github.io/lectures/index.html</loc>
-    <lastmod>2026-10-15T18:08:41.522Z</lastmod>
+    <lastmod>2026-11-03T00:04:26.503Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mdazatorres.github.io/lectures/Modelos_Epid_python/index.html</loc>
+    <lastmod>2026-11-03T00:38:27.802Z</lastmod>
   </url>
   <url>
     <loc>https://mdazatorres.github.io/lectures/EnergiasRenovables/index.html</loc>
