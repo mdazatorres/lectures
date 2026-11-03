@@ -11,17 +11,17 @@ En esta página se encuentran las **diapositivas, datos y ejemplos computacional
 
 ### Día 1 — 3 de Noviembre de 2026
 
-- 📄 [Diapositivas](./downloads/Dia_1__Matematicas_para_transicion_energetica.pdf)
-- 💻 <a href="./downloads/00_exploracion_solar.ipynb" download>Descargar Laboratorio 1: Del mecanismo al modelo SIR</a>
-- 💻 <a href="./downloads/00_exploracion_solar.ipynb" download>Descargar Tarea 1</a>
- 
+- 📄 [Diapositivas](./downloads/diapositivas_dia1.pdf)
+- 💻 <a href="./downloads/clase_01_sir.ipynb" download>Descargar Laboratorio 1: Del mecanismo al modelo SIR</a>
+- 💻 <a href="./downloads/tarea_01_intervencion_sir.ipynb" download>Descargar Tarea 1</a>
  
 
 ### Día 2 — 4 de Noviembre de 2026 
+- 📄 Material próximamente.
 
-- 💻 <a href="./downloads/00_exploracion_solar.ipynb" download>Descargar Clase 2: Ajuste determinista, predicción e incertidumbre</a>
-- 💻 <a href="./downloads/00_exploracion_solar.ipynb" download>Descargar Tarea 2</a>
-- 📊 <a href="./downloads/solar_8760h.csv" download>Descargar datos para Tarea 2: generación solar</a>
+<!-- - 💻 <a href="./downloads/clase_02_fit_sir.ipynb" download>Descargar Clase 2: Ajuste determinista, predicción e incertidumbre</a> -->
+<!-- - 💻 <a href="./downloads/tarea_02_sirs_estacional_instructora.ipynb" download>Descargar Tarea 2</a> -->
+<!-- - 📊 <a href="./downloads/solar_8760h.csv" download>Descargar datos para Tarea 2: generación solar</a> -->
 
 
 ### Día 3 — 5 de Noviembre de 2026 

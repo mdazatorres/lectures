@@ -6,21 +6,24 @@ Welcome to the lectures site.
 
 This space is separate from the main website and is dedicated to course materials, notes, and downloadable files.
 
-## Current courses
+## Current Courses
 
 ### [Ecuaciones Diferenciales Ordinarias (EDO) 2026-II](./edo/)
 
 Materiales del curso para estudiantes de la UAEM, incluyendo notas de clase, notebooks computacionales, tareas y recursos adicionales.
 
-
-### [Minicurso - Matemáticas para Energías Renovables y Resiliencia Climática 2026](./EnergiasRenovables/)
-
-En esta página se encuentran las **diapositivas, datos y ejemplos computacionales** utilizados durante el minicurso **Matemáticas para Energías Renovables y Resiliencia Climática**.
-
-
-### [Minicurso: Modelos matemáticos de enfermedades infecciosas con Python](./Modelos_Epid_python/)
+### [Minicurso: Modelos matemáticos de enfermedades infecciosas con Python (2026)](./Modelos_Epid_python/)
 
 Materiales del minicurso **Modelos matemáticos de enfermedades infecciosas con Python**, impartido en la **Escuela de Invierno de Matemáticas del Instituto de Matemáticas, UNAM, Unidad Cuernavaca**.
 
 Aquí se encuentran disponibles las **diapositivas, conjuntos de datos y ejemplos computacionales en Python** utilizados durante el curso.
+
+
+## Previous Courses
+
+### [Minicurso - Matemáticas para Energías Renovables y Resiliencia Climática (2026)](./EnergiasRenovables/)
+
+En esta página se encuentran las **diapositivas, datos y ejemplos computacionales** utilizados durante el minicurso **Matemáticas para Energías Renovables y Resiliencia Climática**.
+
+
 
