@@ -17,11 +17,9 @@ En esta página se encuentran las **diapositivas, datos y ejemplos computacional
  
 
 ### Día 2 — 4 de Noviembre de 2026 
-- 📄 Material próximamente.
-
-<!-- - 💻 <a href="./downloads/clase_02_fit_sir.ipynb" download>Descargar Clase 2: Ajuste determinista, predicción e incertidumbre</a> -->
-<!-- - 💻 <a href="./downloads/tarea_02_sirs_estacional_instructora.ipynb" download>Descargar Tarea 2</a> -->
-<!-- - 📊 <a href="./downloads/solar_8760h.csv" download>Descargar datos para Tarea 2: generación solar</a> -->
+- 💻 <a href="./downloads/clase_02_fit_sir.ipynb" download>Descargar Clase 2: Ajuste determinista, predicción e incertidumbre</a>
+- 💻 <a href="./downloads/tarea_02_sirs_estacional.ipynb" download>Descargar Tarea 2</a>
+- 📊 <a href="./downloads/datos_tarea_02_sirs_estacional.csv" download>Descargar datos para Tarea 2</a>
 
 
 ### Día 3 — 5 de Noviembre de 2026 
