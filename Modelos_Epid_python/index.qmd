@@ -23,7 +23,7 @@ En esta página se encuentran las **diapositivas, datos y ejemplos computacional
 
 
 ### Día 3 — 5 de Noviembre de 2026 
-- 📄 Material próximamente.
+- 📄 [Diapositivas](./downloads/diapositivas_dia3.pdf)
 
  
 ### Día 4 — 6 de Noviembre de 2026 
