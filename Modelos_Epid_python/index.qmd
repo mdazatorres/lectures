@@ -31,7 +31,7 @@ En esta página se encuentran las **diapositivas, datos y ejemplos computacional
 - 💻 <a href="./downloads/clase_03_beta_sigma_metropolis_hastings.ipynb" download>Descargar Clase 4: Inferencia Bayesiana: Metropolis-Hastings</a>
 
 
-**Hemos llegado al final.** Dudas o comentarios pueden escribir a mi correo luisa.daza@im.unam.mx
+**Hemos llegado al final :).** Dudas o comentarios pueden escribir a mi correo luisa.daza@im.unam.mx
 
 
 
