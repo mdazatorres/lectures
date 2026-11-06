@@ -28,9 +28,10 @@ En esta página se encuentran las **diapositivas, datos y ejemplos computacional
  
 ### Día 4 — 6 de Noviembre de 2026 
 
-- 📄 Material próximamente.
+- 💻 <a href="./downloads/clase_03_beta_sigma_metropolis_hastings.ipynb" download>Descargar Clase 4: Inferencia Bayesiana: Metropolis-Hastings</a>
 
 
+**Hemos llegado al final.** Dudas o comentarios pueden escribir a mi correo luisa.daza@im.unam.mx
 
 
 
