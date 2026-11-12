@@ -37,17 +37,21 @@ I encourage you to ask questions, participate actively in class, and enjoy the p
 - 💻 [Homework 5](./downloads/Homework5.pdf)
 - 💻 [Homework 6](./downloads/Homework6.pdf)
 - 💻 [Homework 7](./downloads/Homework7.pdf)
+- 💻 [Homework 8](./downloads/Homework8.pdf)
 - 💻 <a href="./downloads/Campos_direccionales_isoclinas_Euler.ipynb" download>Descargar notebook python</a>
 
 ---
 
-## Announcements
+## Anuncios
 
 
-**15 de octubre de 2026**
+**12 de Noviembre de 2026**
 
-- Segundo Examen Parcial: Octubre 30 de 2026, 12:00 - 15:00 horas
-- La siguiente semana no tendremos clase 
+**Fechas importantes:**
+- Parcial 3: Diciembre 2, 2026
+
+- Presentación de Proyectos: Diciembre 9, 2026
+
 
 
 
