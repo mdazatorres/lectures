@@ -38,6 +38,7 @@ I encourage you to ask questions, participate actively in class, and enjoy the p
 - 💻 [Homework 6](./downloads/Homework6.pdf)
 - 💻 [Homework 7](./downloads/Homework7.pdf)
 - 💻 [Homework 8](./downloads/Homework8.pdf)
+- 💻 [Homework 9 (Última y nos vamos)](./downloads/Homework9.pdf)
 - 💻 <a href="./downloads/Campos_direccionales_isoclinas_Euler.ipynb" download>Descargar notebook python</a>
 
 ---
@@ -50,7 +51,7 @@ I encourage you to ask questions, participate actively in class, and enjoy the p
 **Fechas importantes:**
 - Parcial 3: Diciembre 2, 2026
 
-- Presentación de Proyectos: Diciembre 9, 2026
+- Presentación de Proyectos: Diciembre 11, 2026. 9:00 am
 
 
 
