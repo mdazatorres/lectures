@@ -1,0 +1,15 @@
+# Red de ejemplo: 13 rutas ilustrativas, hechas a mano. NO son las rutas oficiales.
+# nombre de la ruta, seguido de sus paradas en orden
+Ruta A,Santa Maria,Chamilpa UAEM,Buenavista,Tlaltenango,Carolina,Centro
+Ruta B,Buenavista,Lomas de Cortes,La Selva,Mercado ALM,Centro
+Ruta C,Ahuatepec,Ocotepec,Lomas de Cortes,La Selva,Mercado ALM
+Ruta D,Chamilpa UAEM,Ocotepec,Ahuatepec,Antonio Barona,Delicias,Vista Hermosa,Teopanzolco,Mercado ALM,Centro
+Ruta E,Centro,Mercado ALM,Teopanzolco,Plan de Ayala,Flores Magon,Satelite,CIVAC,Tejalpa
+Ruta F,Centro,Jacarandas,Chapultepec,Satelite,Jiutepec,Tejalpa
+Ruta G,Centro,Las Palmas,Chipitlan,Polvorin,Alta Palmira,Temixco
+Ruta H,Centro,Las Palmas,Acapantzingo,Palmira,Alta Palmira,Temixco
+Ruta I,Altavista,Carolina,Centro,Jacarandas,Acapantzingo
+Ruta J,Lagunilla,San Anton,Centro,Mercado ALM,La Selva
+Ruta K,Altavista,San Anton,Las Palmas,Jacarandas,Plan de Ayala,Chapultepec
+Ruta L,Antonio Barona,Flores Magon,Plan de Ayala,Teopanzolco,Vista Hermosa,La Selva
+Ruta M,CIVAC,Jiutepec,Chapultepec,Acapantzingo

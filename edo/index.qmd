@@ -2,18 +2,6 @@
 title: "Ecuaciones Diferenciales Ordinarias"
 ---
 
-<!--Welcome to **Ordinary Differential Equations**!
-
-I am delighted to have you in this course. Throughout the semester, we will develop the mathematical theory of ordinary differential equations while emphasizing intuition, analytical techniques, and applications arising in science, engineering, and other quantitative disciplines.-->
-
-<!--This website will serve as the main hub for the course. Here you will find lecture notes, Jupyter notebooks, assignments, announcements, and additional resources. Please check this page regularly, as course materials and updates will be posted throughout the semester.
-
-I encourage you to ask questions, participate actively in class, and enjoy the process of learning. I look forward to a productive and enjoyable semester together. Welcome!-->
-
-
-
-
-
 | | |
 |---|---|
 | **Semestre** | Tercer semestre |
@@ -26,7 +14,7 @@ I encourage you to ask questions, participate actively in class, and enjoy the p
 
 ---
 
-## Course Materials
+## Materiales del Curso
 
 - 📄 [Syllabus](./downloads/EDO2027I_Syllabus.pdf)
 - 📒 [Lecture  - October 14, 2026](./downloads/Notas_de_Clase.pdf)
@@ -41,6 +29,39 @@ I encourage you to ask questions, participate actively in class, and enjoy the p
 - 💻 [Homework 9 (Última y nos vamos)](./downloads/Homework9.pdf)
 - 💻 <a href="./downloads/Campos_direccionales_isoclinas_Euler.ipynb" download>Descargar notebook python</a>
 
+### Proyectos
+
+**Para empezar**
+
+- 📄 [Instrucciones generales](./downloads/projects/Convocatoria_proyectos.pdf): cómo escoger, qué se entrega y qué se evalúa.
+- 📄 [Herramientas de Python](./downloads/projects/Herramientas_de_Python.pdf): las funciones que usan los proyectos y que no vimos en clase.
+
+**Guías de los proyectos**
+
+| Proyecto | Guía | Datos |
+|:--|:-:|:--|
+| **P1.** ¿Cómo se vacía una botella? | 📄 [Guía](./downloads/projects/Proyecto_vaciado_botella.pdf) | |
+| **P2.** Enfriamiento de una taza de café | 📄 [Guía](./downloads/projects/Proyecto_taza_de_cafe.pdf) | |
+| **P3.** Oscilador amortiguado con el celular | 📄 [Guía](./downloads/projects/Proyecto_oscilador_amortiguado.pdf) | |
+| **P4.** Romeo y Julieta | 📄 [Guía](./downloads/projects/Proyecto_romeo_julieta.pdf) | |
+| **P5.** Un medicamento en el cuerpo | 📄 [Guía](./downloads/projects/Proyecto_medicamento.pdf) | 💻 <a href="./downloads/projects/datos_dosis_unica.csv" download>Dosis única</a> |
+| **P6.** Modelo SIR de una epidemia | 📄 [Guía](./downloads/projects/Proyecto_SIR_covid_Morelos.pdf) | 💻 <a href="./downloads/projects/datos_internado.csv" download>Internado</a> · <a href="./downloads/projects/datos_morelos_omicron.csv" download>Morelos, COVID-19</a> |
+| **P7.** Difusión en la red de transporte | 📄 [Guía](./downloads/projects/Proyecto_difusion_en_red.pdf) | 💻 <a href="./downloads/projects/red_cuernavaca_nodos.csv" download>Nodos</a> · <a href="./downloads/projects/red_cuernavaca_rutas.csv" download>Rutas</a> |
+| **P8.** Epidemia en la red de transporte | 📄 [Guía](./downloads/projects/Proyecto_epidemia_en_red.pdf) | 💻 <a href="./downloads/projects/red_cuernavaca_nodos.csv" download>Nodos</a> · <a href="./downloads/projects/red_cuernavaca_rutas.csv" download>Rutas</a> |
+| **P9.** Programa para ecuaciones de segundo orden | 📄 [Guía](./downloads/projects/Proyecto_solver_segundo_orden.pdf) | |
+| **P10.** El balance de energía de la Tierra | 📄 [Guía](./downloads/projects/Proyecto_balance_energia_clima.pdf) | |
+
+Los datos de P7 y P8 son una red de ejemplo de Cuernavaca: úsenlos si no tienen su propio grafo del transporte.
+
+**Para inscribir su proyecto**
+
+Envíenme un correo, a más tardar el **jueves 3 de diciembre**, con:
+
+1. el número del proyecto que escogieron y una segunda opción,
+2. los nombres de los integrantes del equipo (máximo 2 personas).
+
+Cada proyecto lo hace un solo equipo y se asignan en el orden en que lleguen los correos.
+
 ---
 
 ## Anuncios
@@ -49,6 +70,7 @@ I encourage you to ask questions, participate actively in class, and enjoy the p
 **12 de Noviembre de 2026**
 
 **Fechas importantes:**
+
 - Parcial 3: Diciembre 2, 2026
 
 - Presentación de Proyectos: Diciembre 11, 2026. 9:00 am

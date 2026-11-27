@@ -1,0 +1,20 @@
+# Datos SINTETICOS (generados con el modelo mas 4 % de ruido), no de un paciente real
+# Cantidad de medicamento en la sangre despues de una dosis intravenosa de 100 mg
+# tiempo (horas), cantidad en sangre (mg)
+0.25,86.7
+0.5,80.1
+0.75,70.8
+1.0,59.4
+1.5,50.0
+2.0,43.0
+3.0,36.5
+4.0,30.7
+6.0,25.3
+8.0,18.5
+12.0,14.2
+16.0,8.9
+20.0,6.2
+24.0,4.0
+30.0,2.2
+36.0,1.2
+48.0,0.4
